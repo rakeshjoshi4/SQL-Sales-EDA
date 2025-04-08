@@ -6,12 +6,12 @@ This project demonstrates exploratory data analysis (EDA) using Microsoft SQL Se
 
 ## Features
 
-* Database Exploration: Understanding the structure of tables and columns.
-* Dimension Exploration: Analyzing categorical data like countries and product categories.
-* Date Range Analysis: Identifying temporal patterns in sales and customer demographics.
-* Measures Exploration: Calculating key business metrics such as total sales and average price.
-* Magnitude Analysis: Aggregating data by dimensions like country and category.
-* Ranking Analysis: Identifying top-performing products and customers.
+* **Database Exploration**: Understanding the structure of tables and columns.
+* **Dimension Exploration**: Analyzing categorical data like countries and product categories.
+* **Date Range Analysis**: Identifying temporal patterns in sales and customer demographics.
+* **Measures Exploration**: Calculating key business metrics such as total sales and average price.
+* **Magnitude Analysis**: Aggregating data by dimensions like country and category.
+* **Ranking Analysis**: Identifying top-performing products and customers.
 
 ## Dataset Description
 
@@ -201,4 +201,3 @@ Based on the analysis:
 2. **Customer Engagement**: Develop loyalty programs for top customers and target marketing to increase engagement from infrequent buyers.
 3. **Geographic Focus**: Tailor marketing efforts to high-customer-density countries and explore opportunities in under-tapped regions.
 4. **Category Performance**: Prioritize and optimize product categories based on average costs and revenue contribution.
-
