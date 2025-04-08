@@ -6,12 +6,12 @@ This project demonstrates exploratory data analysis (EDA) using Microsoft SQL Se
 
 ## Features
 
-- **Database Exploration**: Understanding the structure of tables and columns.
-- **Dimension Exploration**: Analyzing categorical data like countries and product categories.
-- **Date Range Analysis**: Identifying temporal patterns in sales and customer demographics.
-- **Measures Exploration**: Calculating key business metrics such as total sales and average price.
-- **Magnitude Analysis**: Aggregating data by dimensions like country and category.
-- **Ranking Analysis**: Identifying top-performing products and customers.
+* Database Exploration: Understanding the structure of tables and columns.
+* Dimension Exploration: Analyzing categorical data like countries and product categories.
+* Date Range Analysis: Identifying temporal patterns in sales and customer demographics.
+* Measures Exploration: Calculating key business metrics such as total sales and average price.
+* Magnitude Analysis: Aggregating data by dimensions like country and category.
+* Ranking Analysis: Identifying top-performing products and customers.
 
 ## Dataset Description
 
@@ -37,10 +37,23 @@ Ensure you have:
 
 ### Installation Instructions
 
-1. Clone this repository:
-git clone https://github.com/rakeshjoshi4/SQL-Sales-EDA
-2. Open the SQL [scripts](scripts) in your database management tool.
-3. Execute `00_init_database.sql` to initialize the database and load the data.
+1.  **Clone the Repository:**
+
+    ```
+    git clone https://github.com/rakeshjoshi4/SQL-Sales-EDA.git
+    ```
+
+2.  **Open SQL Scripts:**
+
+    *   Open your preferred database management tool (e.g., Microsoft SQL Server Management Studio).
+    *   Open the SQL scripts located in the `scripts` directory.
+
+3.  **Initialize the Database and Load Data:**
+
+    *   Execute the `00_init_database.sql` script to create the database, define the schema, and create the tables.
+    *   Import the data from the CSV files (`gold.dim_customers.csv`, `gold.dim_products.csv`, and `gold.fact_sales.csv`) into their respective tables. You can use SQL Server Management Studio's import wizard or `BULK INSERT` statements.
+
+
 
 ## Key SQL Queries
 
