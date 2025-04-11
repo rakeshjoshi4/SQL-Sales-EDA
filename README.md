@@ -167,25 +167,25 @@ ORDER BY highest_revenue DESC;
 The SQL EDA project provided several actionable insights:
  
 1. **Key Metrics**:
-  - Total sales revenue was calculated to provide a high-level overview of business performance.
-  - Average selling price and total orders gave insights into customer purchasing behavior and sales efficiency.
+   - Total sales revenue was calculated to provide a high-level overview of business performance.
+   - Average selling price and total orders gave insights into customer purchasing behavior and sales efficiency.
  
 2. **Top Performers**:
-  - Top 5 products by revenue help in strategic product placement and marketing efforts.
-  - Top 10 customers by revenue indicate key accounts that require special attention and retention strategies.
+   - Top 5 products by revenue help in strategic product placement and marketing efforts.
+   - Top 10 customers by revenue indicate key accounts that require special attention and retention strategies.
  
 3. **Demographic Insights**:
-  - Customer distribution across countries helps tailor marketing strategies based on regional preferences.
-  - Gender-based analysis refines marketing campaigns for specific demographics.
+   - Customer distribution across countries helps tailor marketing strategies based on regional preferences.
+   -  Gender-based analysis refines marketing campaigns for specific demographics.
  
 4. **Temporal Insights**:
-  - Analyzing the date range of sales orders provides an understanding of sales trends over time for forecasting.
+   - Analyzing the date range of sales orders provides an understanding of sales trends over time for forecasting.
  
 5. **Product Category Analysis**:
-  - Understanding which product categories are most popular can inform decisions about product development and inventory management.
+   - Understanding which product categories are most popular can inform decisions about product development and inventory management.
  
 6. **Customer Segmentation**:
-  - Grouping customers by order frequency and revenue generation helps create targeted marketing campaigns and loyalty programs.
+   - Grouping customers by order frequency and revenue generation helps create targeted marketing campaigns and loyalty programs.
   
 ## Conclusion
  
