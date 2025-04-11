@@ -14,13 +14,15 @@ This project demonstrates exploratory data analysis (EDA) using Microsoft SQL Se
 * **Ranking Analysis**: Identifying top-performing products and customers.
  
 ## Dataset Description
- 
+
 ### Tables
 
 - `dim_customers`: Contains customer demographics such as name, country, gender, and birthdate.
 - `dim_products`: Includes product details such as category, subcategory, cost, and product line.
 - `fact_sales`: Stores transactional data including order details, sales amount, quantity sold, and dates.
- 
+
+### Key Columns
+
 - `customer_key`: Unique identifier for customers.
 - `product_key`: Unique identifier for products.
 - `sales_amount`: Total revenue generated per transaction.
